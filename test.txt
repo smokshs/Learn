@@ -1,2 +1,2 @@
 new master
-server text
+server text okz
