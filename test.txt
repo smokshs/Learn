@@ -1,3 +1,4 @@
 new masteroz
 server text okz
 okz
+new
