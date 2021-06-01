@@ -1,4 +1,4 @@
-new masterp
+new masterpp
 server text okz
 okz
 new
